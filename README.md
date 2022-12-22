@@ -1,46 +1,13 @@
-# Website
+# Vision Knowledge Base - 中维动力视觉知识库
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+基于 [Docusaurus 2](https://docusaurus.io/) 搭建的知识库  
 
-### Installation
+在线访问地址：https://fjut-vision-blog.vercel.app/
 
-```
-$ yarn
-```
 
-### Local Development
+# 使用介绍
 
-```
-$ yarn start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-# pull 加简介啊
-
-## 如何上传本地文件至VisionBlog
+## 如何上传本地文件至 Vision Knowledge Base
 #### 1.使用git将项目克隆到本地
 > 首先更新 fork，然后再进行拉取
 ```
